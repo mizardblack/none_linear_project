@@ -28,3 +28,12 @@ p {
     padding:15vh 8vw;
     height:600px;
 }   
+
+nav{
+    font-family:ethnocentric, sans-serif;
+    font-size: 1.2em;
+    color: white;
+    position: absolute;
+    right:10%;
+    bottom:10%;
+}
