@@ -7,10 +7,6 @@ a {
     color:white;
 }
 
-p {
-    font-family: hero-new, sans-serif;
-}
-
 .index {
     font-family:ethnocentric, sans-serif;
     background: black;
@@ -20,11 +16,17 @@ p {
     padding:12.5vh 8vw;
     height:600px;
 }
+
+p {
+    font-family: hero-new, sans-serif;
+    font-size: .6em;
+}
+
 .description {
     font-family: hero-new, sans-serif;
     background: white;
     color:black;
-    font-size:1.4em;
+    font-size:2em;
     padding:15vh 8vw;
     height:600px;
 }   
